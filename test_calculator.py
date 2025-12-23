@@ -33,3 +33,4 @@ def test_divide_by_zero():
 def test_is_prime_number(n, expected):
     assert calc.is_prime_number(n) == expected
 
+
